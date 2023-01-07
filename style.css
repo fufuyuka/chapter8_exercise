@@ -23,6 +23,8 @@ li:nth-child(odd) {
 }
 
 .boxes {
+  width: 100%;
+  margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
 }
